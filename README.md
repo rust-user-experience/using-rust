@@ -4,7 +4,7 @@
 story narrates the challenges encountered by [one of our characters][cc] as they
 try (and typically fail in dramatic fashion) to achieve their goals.
 
-[cc]: ./characters/characters.md
+[cc]: ./src/characters/characters.md
 
 ## Writing
 
